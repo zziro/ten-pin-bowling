@@ -33,5 +33,7 @@ Steps:
 ### Running Tests
 ```
 * Once the application is imported in the IDE
-* Right click and select Run As -> JUnit Test
+* Right click and select Run As -> Maven Clean
+* Right click and select Run As -> Maven Install
+* Right click and select Run As -> Junit Test 
 ```
